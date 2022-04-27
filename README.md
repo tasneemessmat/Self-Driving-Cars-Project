@@ -9,8 +9,6 @@ Image Processing Project
 Overview
 ---
 
-This project is an amalgamation of Python, OpenCV and my growing love for CV ;)
-
 Pipeline used for lane line detection :
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
